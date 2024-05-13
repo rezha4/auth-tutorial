@@ -12,7 +12,7 @@ export default function Home() {
     <main className="flex h-full flex-col items-center justify-center bg-gradient-to-tl from-cyan-400 via-blue-500 to-blue-800">
       <div className="space-y-6 text-center text-white">
         <h1 className="text-6xl font-semibold drop-shadow-md">
-          Auth
+          🔐 Auth
         </h1>
         <p className="text-lg">Boilerplate NextAuth</p>
         <div>
